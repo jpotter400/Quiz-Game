@@ -74,10 +74,7 @@ print("You got " + str(score) + " Questions Correct!")
 
 
 print("You scored a " + str((score / 4) * 100) + "%.")
-if score >= 50.0:
-    print("Great Job!")
-else:
-    print("Back to the drawing board!")
+
 
 
 # In[ ]:
